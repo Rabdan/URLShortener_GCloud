@@ -1,0 +1,23 @@
+{
+  "name": "urlshorter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rabdan",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^4.1.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "escape-html": "^1.0.3",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.8.0",
+    "method-override": "^3.0.0",
+    "shortid": "^2.2.15",
+    "url-parse": "^1.4.7",
+    "valid-url": "^1.0.9"
+  }
+}
